@@ -521,7 +521,7 @@ const loadProfile = () => {
     userProfile.value = {
       ...userStore.currentUser,
       avatar: '/image/nhk.jpg',
-      bio: 'BSIT 31E1 student, likes to play with computers.',
+      bio: 'Hi! I’m Nhikiel Vidallon, 21yrs old. BSIT 31E1 student, ',
       year: '3rd Year',
       major: 'BSIT 31E1',
       description: 'likes to play with computers',
